@@ -1,0 +1,8 @@
+{
+  "name": "layer-product-layer",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "postinstall": "nuxt prepare"
+  }
+}
